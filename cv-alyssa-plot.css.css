@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
+.ecriture {
+    font-family: "Noto+Serif";
+}
+i {
+    float: left;
+}
+
+.adroite {
+    padding-left: 85%;
+}
+
+i {
+    float: right
+}
+
+.agauche {
+    padding-right: 75%;
+}
+
+P.blocktext {
+    margin-left: 60%;
+    margin-right: 40%;
+    width: 16em
+}
+
+img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .img-carree {
+    clip-path:ellipse(50% 50%);
+    }
